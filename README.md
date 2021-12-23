@@ -1,2 +1,3 @@
-# Portia
-It's me my love
+from tkinter import *
+root=Tk()
+root.mailoop()
